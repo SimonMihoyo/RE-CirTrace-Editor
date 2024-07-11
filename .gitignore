@@ -1,0 +1,93 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files
+*.psess
+*.psess.vsmdi
+*.psess.runsettings
+*.testresults
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Windows 7-10 store app project
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders to ignore
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Rider directories
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+.idea/*
+*.sln.iml
+*.tmp
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Web/HTML/CSS
+node_modules/
+
+# Miscellaneous
+*.class
+*.swp
+*.swo
